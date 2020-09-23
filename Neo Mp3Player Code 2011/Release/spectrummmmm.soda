@@ -1,0 +1,6 @@
+<?Soda version="1.0"?>
+<!-- Specification for Bars.dll -->
+<list>
+ <object> M3P_visSpectrum.Spectrum,spectrum analyset </object>
+ <config> 1 </config>
+</list>

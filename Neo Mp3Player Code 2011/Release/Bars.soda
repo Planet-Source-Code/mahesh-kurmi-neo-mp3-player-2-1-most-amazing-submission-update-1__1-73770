@@ -1,0 +1,18 @@
+<?Soda version="1.0"?>
+<!-- Specification for Bars.dll -->
+<list>
+ <object> Bars.Bars2,Bars - 2 </object>
+ <config> 0 </config>
+ <object> Bars.Fire,Fire </object>
+ <config> 0 </config>
+ <object> Bars.FrequencyWaves,Frequency Waves </object>
+ <config> 0 </config>
+ <object> Bars.LEDBars,LED Bars </object>
+ <config> 1 </config>
+ <object> Bars.Peaks,Peaks </object>
+ <config> 0 </config>
+ <object> Bars.PlainBars,PlainBars </object>
+ <config> 0 </config>
+ <object> Bars.Scope,Scope </object>
+ <config> 1 </config>
+</list>

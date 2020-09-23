@@ -1,0 +1,121 @@
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+NEO MP3 PLAYER: Created by Mahesh kurmi
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Bugs Fixed v2.0.1
+1.  mpeg Duration error for some files corrected (Use Mode FSOUND_MPEGACCURATE = &H20000 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I recommond to run the setup with administrator previlage.
+
+Mp3 player:
+--------------------
+I started working on mp3 player 3-4 years before ,and whenever get some leisure time form my professional life
+I devote it to my projects and it is one of them.
+It supports
+1. DFX
+2. Skins
+3. Visualisation (realistic- smoother than any player ever)
+4. Media library
+5. Dedicated Tag editor
+6. Almost all owner drawn controls
+8. Supports system Drag drop, File association and many more
+
+
+TAG EDITOR:
+--------------------
+1.  Album Art: Move the cursor on scrolling text It will display album art if available
+    Album art feature will be found in latest mp3s after 2008-2009 try downloading some mp3s and playing with this player
+2   Lyrics:  I am still working on it
+3.  You can edit Id3 tag vesion 1.0, 2.0, 2.3 and 2.4 with its highly advanced tag editor, Even you can insert mp3 file in any of mp3 you want.
+4.  you can edit more than one track at a time(if u want to insert same info)
+
+
+DSP:
+--------------------
+1.  10 band Graphing equalisers with custom presets
+2.  I3D2 reverb, Echo etc
+3.  I am working on using these effects to give better results, you may play with this, (clear all fx if found noisy)
+
+
+Playlist:
+--------------------
+1.  complete drag and drop support from explorer and medialibarray both
+2.  Allows to save/load Playlist files in pls(media player format) , m3u(winamp format) or npl(own format) 
+3.  playlist can display tracks in any format eg: TRackname>>artistname>>album>>duration(for more see menu>>options>>preference>>.playlist tab)
+4.  Rearrange tracks by dragging tracks
+5.  Search and play feature (click on menu>> mp3 searcher  ...Browse)
+
+Visualisation:
+--------------------
+1.  I am Working on full screen 3D visualisation using Direct X, but u can enjoy some visualisation now as well
+
+
+Media Library
+--------------------------
+1.  Search Your computer by clicking medialibrary menu file>>Add media to library..  then browse folder you want and wait
+    for it to search then click on add files 
+
+2.  The tracks added are stored in database file  stored in "App.path + \Library\music.mdb" Dont delete it
+
+3.  You can click on new Library to completely erase library database files
+
+4.  libaray is provided with very useful feature of making new playlist and imporing and exporting playlist between hard drive
+    and database file
+
+5.  library supports playcount feature (keeps account of no of times file is played) which i like a lot
+
+
+BUGS and SUGGESTIONS
+--------------------------------------------------------------
+1. Bug:  If it shows error : Unable to set up corporate level with hardware
+
+   Solution:      Make sure you run the application as administraor in vista/windows 7 because it registers ausio engine
+         and subclasses controls  and its window.
+         Right click on exe, then click on run as administrator
+
+2. Bug:  Window goes outside the screen or any other problem related to loss of default settings
+   Solution: Reset the plaver :
+         ight click on player window>>> option>>>reset player
+
+3. Bug:  Skin is not loading properly 
+   Solution: Not all the skins are completely done, for best experience use DEFAULT skin or winamp skin
+
+4. File asssociaion: It doest work thoroughly when winamp is installed.
+   Soultion: Just disable winamp agent to get it working or set openwith ...default.
+    
+
+4. Other bugs:
+   pls let me know. I want my player to be perfect handy bug free and opensource
+   If you are interested in programming and find yourself to be keen in learning and contributing in player pls contact me
+   i will be very happy in making u a part of it.
+
+5. Suggestions:
+   The most important part :  PLZ make me aware of amendments in this music player, what you want more it to do, and the way to make it more
+   user friendly. But Pls dont ask me to impement capability of playing video files I will be making separate player for this.
+   it is purely a music player.
+
+
+I am planning to submit the whole code on net as soon as i complete this but i want all the member to support me by notifying me the bugs and extra features to be implemented and more importantly 
+Suggestions for better performance.
+I have included screenshot for my Mp3player.
+
+
+Thanks to all testers downloaders and my wellwishers:
+
+mahesh Kurmi
+mahesh_kumi2003@yahoo.com
+www.shikharclasses.com
+Feb 2011

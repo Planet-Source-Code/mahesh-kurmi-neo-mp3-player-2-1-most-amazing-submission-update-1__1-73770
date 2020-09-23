@@ -1,0 +1,6 @@
+<?Soda version="1.0"?>
+<!-- Specification for M3P_visSpecrum.dll -->
+<list>
+ <object> M3P_visSpecrum.visSpectrum,M3P Spectrum </object>
+ <config> 1 </config>
+</list>

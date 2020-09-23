@@ -1,0 +1,6 @@
+<?Soda version="1.0"?>
+<!-- Specification for VisualizationWurx.dll -->
+<list>
+ <object> M3P_visOscillscope.Oscilloscope,123 </object>
+ <config> 0 </config>
+</list>

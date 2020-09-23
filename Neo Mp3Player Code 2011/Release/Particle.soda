@@ -1,0 +1,24 @@
+<?Soda version="1.0"?>
+<!-- Specification for Particle.dll -->
+<list>
+ <object> Particle.BeatText,Beat Text </object>
+ <config> 1 </config>
+ <object> Particle.SpikeFlower,Spike Flower </object>
+ <config> 0 </config>
+ <object> Particle.Spinner,Spinner </object>
+ <config> 0 </config>
+ <object> Particle.EventHorizon, Event Horizon </object>
+ <config> 1 </config>
+ <object> Particle.SplashWave,SplashWave </object>
+ <config> 0 </config>
+ <object> Particle.Stars,Stars </object>
+ <config> 0 </config>
+ <object> Particle.TwistedPixel,Twisted Pixels </object>
+ <config> 0 </config>
+ <object> Particle.Swirl,Wave Fumes </object>
+ <config> 0 </config>
+ <object> Particle.Rotation,Rotation </object>
+ <config> 0 </config>
+ <object> Particle.Randomization,Randomization </object>
+ <config> 0 </config>
+</list>

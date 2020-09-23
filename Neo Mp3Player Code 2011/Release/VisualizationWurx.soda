@@ -1,0 +1,16 @@
+<?Soda version="1.0"?>
+<!-- Specification for VisualizationWurx.dll -->
+<list>
+ <object> VisualizationWurx.Chaos,Color Chaos </object>
+ <config> 0 </config>
+ <object> VisualizationWurx.Distortion,Color Distortion </object>
+ <config> 0 </config>
+ <object> VisualizationWurx.Psychadelic,Psychadelic Colors </object>
+ <config> 0 </config>
+ <object> VisualizationWurx.ShapeWurx,Shapes - Out of the box </object>
+ <config> 0 </config>
+ <object> VisualizationWurx.SpinWay,Spin Way </object>
+ <config> 0 </config>
+ <object> VisualizationWurx.FrameFlow,Frame Flow </object>
+ <config> 0 </config>
+</list>

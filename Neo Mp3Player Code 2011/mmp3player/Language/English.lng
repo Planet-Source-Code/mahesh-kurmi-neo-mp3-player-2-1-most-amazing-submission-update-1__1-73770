@@ -1,0 +1,266 @@
+[lANGUAGE fILE fOR mUSIC mP3 pLAYER X v. 2.0 ENGLISH]
+Play
+  File...
+  Folder...
+  New Find...
+Windows
+  Play List
+  Media Library
+  Equalizer
+  Visualization Studio
+  Maximize Cover Front
+  Edit Track(s) Tag
+  Karaoke
+Player Controls
+  Volume
+    Increase Volume
+    Decrease Volume
+  Previous Track
+  Play
+  Pause
+  Stop
+  Next Track
+  Intro 10 seg.
+  Repeat Track
+  Mute
+  Randomize
+  Skip Backward 5 seg.
+  Skip Forward 5 Seg.
+Options
+ Skins
+  << Skin Browser >>
+ Alpha
+  Custom
+About...
+Exit
+About MMPlayerX
+Current Cover Front
+Karaoke
+  [ Lyrics no Found ]
+  Menu
+  Minimize
+  Change Mode
+  Exit
+  No Visualization
+  Spectrum Analyzer
+  Osilliscope
+-----Not use -----
+-----Not use -----
+-----Not use -----
+-----Not use -----
+-----Not use -----
+-----Not use -----
+-----Not use -----
+-----Not use -----
+-----Not use -----
+-----Not use -----
+-----Not use -----
+Tag Editor + MPEG Info
+  Multiple track are selected. Select checkboxes to apply changes to ALL selected tracks
+  Select All
+  Tags
+  Karaoke
+  Add
+  Undo
+  Ok
+  Cancel
+  Apply
+  Cover Front
+  Add Art
+  Remove Art
+Options
+  Ok
+  Cancel
+  Apply
+Application
+  Path Configuration
+    Path skins and configuration:
+    Browse...
+    Nota: Some options need restart the application for work.
+    Free memory (Phys):
+  Application
+    Language:
+    Olways on Top.
+    Show Splash Screen.
+    Allow multiples instances.
+    Enable menu in drives and directories.
+    Show MMPlayerX in:
+    Task bar.
+    System tray.
+  Alpha
+    Alpha(Only win 2000 or later)
+Skins
+  Current Skin:
+  Skin Info:
+  Load regions from file.
+Wallpaper
+  Options Wallpaper.
+  No alter.
+  Strech.
+  Center.
+  Tile.
+  Proportional.
+PlayList Format
+  Format List Reproduction.
+  Format Scroll Text.
+  Scroll type:
+    Rolling.
+    Zig Zag.
+  Scroll Velocity:
+Player
+  Play Files:
+  Show in System Tray:
+    Previous Track.
+    Play.
+    Pause.
+    Stop.
+    Next Track.
+  Crossfade between tracks (ms):
+  Crossfade in stop (ms):
+  Automatically play on startup.
+DSP FX
+  Chorus
+    Enable Chorus.
+      Wet dry mix:
+      Depth:
+      Feed back:
+      Frequency:
+      WaveForm:
+      Delay:
+      Phase:
+  Compressor
+    Enable compressor. 
+      Gain:
+      Attack:
+      Release:
+      Threshold:  
+      Ratio:
+      Pre delay:
+  Distortion
+    Enable distortion.
+      Gain:
+      Edges:
+      Eq center freq:
+      Eq Bandwidth:
+      Lowpass cutoff:     
+  Echo
+    Enable echo.
+      Wet dry mix:
+      Feedback:
+      Left delay:
+      Right delay:
+      Pan Delay:
+  Flanger
+    Enable Flanger.
+      Wet dry mix:
+      Depth:
+      Feedback:
+      Frequency:
+      WaveForm:
+      Delay:
+      Phase:
+  Gargle
+    Habilitar gargarizar.
+      Hz:
+      Wave shape: 
+  I3DL2 Reverb     
+    Enable I3D level 2 Reverb.
+      Room:
+      Room HF:
+      Roll off factor: 
+      Decay time:
+      Decay hf ratio:
+      Reflections:
+      Reflection delay:
+      Reverb:
+      Reverb delay:
+      Diffusion:
+      Density:
+      HF reference:
+  Waves Reverbs
+    Enable waves reverbs.
+      In gain:
+      Reverb mix 
+      Reverb time:
+      HF Ratio:
+  Default FX Parameters
+  Clear all FX
+Equalizer
+  Enable EQ.
+  Presents:
+  Delete EQ
+  Save EQ
+  Equalizer name:
+  Delete equalizer:
+Visualization
+  Visualizations:
+  Presents:
+  News:
+  Draw Source:
+  Draw Peaks:
+  Draw Bars:
+  Image File:
+  Scale:
+  Color Bars:
+  Bars:
+  Bars Spacing:
+  Mirrored:
+  Peak Color:
+  Peak Height:
+  Peak Gravity:
+  Gradient:
+  Back Color:
+  Color Line:
+  Lines:
+  Align:
+  Save
+  Save as
+  Delete
+  Show
+  Delete visualization:
+  Name visualization:
+  Previous Visualization
+  Next Visualization
+  Configure ...
+  Exit
+  Save Configuration
+  Phys:
+  Virtual:
+  Page File:
+Search Files.
+Look in:
+Browse...
+Start Search
+Stop Search
+Select Folder
+Put Cover Front to Wallpaper
+Media Library Options
+Remove Missing files from media library
+Add Audio to Media Library 
+Refresh Data Base
+Delete Play List
+Search:
+Start Search
+Play Selection ADD
+Play All ADD
+Play Selection NEW
+Play All NEW
+Save Play List
+Edit Selected Items
+Explore Items Folder
+Remove from Library
+Save Play List
+Add Files
+Remove Tracks
+Remove Selected
+Clear Play List
+Remove Missing Files from Play List
+Misc
+Sort List by Title
+Sort List by Artist
+Sort List by FileName
+Edit Selected Tracks
+Play List
+Open Play List From Media
+Save Play List
+Manage Play List...
